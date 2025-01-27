@@ -1,2 +1,16 @@
-# Simple-Interest
-Simple interest is a method of calculating interest on a principal amount, based on a fixed percentage over a specific period. The formula is: Interest = Principal × Rate × Time. It is commonly used in loans, savings, and investments, providing a straightforward way to determine the cost or return.
+# Introduction to Git and GitHub
+
+## Simple Interest Calculator
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+```
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+```
+
+_© 2022 XYZ, Inc._
